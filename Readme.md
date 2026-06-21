@@ -42,18 +42,18 @@ PC <════╝    ╚══════════>         ├───�
 ## 3. USB-C Ethernet Adapter + Meta Quest Link Kabel - Test ausstehend
 Sofern ein Meta Quest Link Kabel bereits vorhanden ist:
 ```
-  Router / Switch                                     USB-C 
-     Ethernet                                         Strom
-┌────────────────────┐                                  │
-│ ███  ███  ███  ███ │                                  │
-└───────║────║───────┘                                  │
-        ║    ║          ┌─────────┐       ┌───┐    ┌────┴────┐
-PC <════╝    ╚══════════>         ├───────>   <────┤         ├───────────> Quest
-                        └─────────┘       └───┘    └─────────┘
-                     Ethernet zu USB-C    USB-C     Quest Link Kabel
-                          Adapter        Adapter    mit Power Injection
-                                           w/w                       
+  Router / Switch          USB-C  
+     Ethernet              Strom 
+┌────────────────────┐       │
+│ ███  ███  ███  ███ │       │
+└───────║────║───────┘       │
+        ║    ║          ┌────┴────┐       ┌───┐    
+PC <════╝    ╚══════════>         ├───────>   <────────────────────────> Quest
+                        └─────────┘       └───┘    
+                     Ethernet zu USB-C   USB-A/w     Quest Link Kabel
+                          Adapter        USB-C/w   
 ```
 ### Einkaufsliste
-- Ethernet zu USB-C Adapter ([Amazon.de](https://www.amazon.de/dp/B0CQ4YBLYW))
-- USB-C Adapter weiblich / weiblich ([Amazon.de](https://www.amazon.de/dp/B0BCDGM3SZ))
+- Ethernet zu USB-C Adapter mit Power Injection ([Amazon.de](https://www.amazon.de/dp/B0F13RJKJ3))
+- USB C Buchse auf USB 3.1 A Buchse Konverter ([Amazon.de](https://www.amazon.de/dp/B0GFDDFVV3))
+
